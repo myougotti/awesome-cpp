@@ -1,6 +1,8 @@
 # Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/fffaraz/awesome-cpp/)
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
+Looking for something to **build** with these libraries? See [portfolio-projects.md](portfolio-projects.md) for a curated list of project ideas to work on.
+
 - [Awesome C++  ](#awesome-c--)
 	- [Standard Libraries](#standard-libraries)
 	- [Frameworks](#frameworks)
